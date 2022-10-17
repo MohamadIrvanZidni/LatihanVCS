@@ -59,6 +59,8 @@ Kelas : TI.22.A.3
 
 14.gunakan "git push -u origin master" untuk upload ke github nya
 
+![push](https://user-images.githubusercontent.com/115876072/196161279-94f496b5-bf2a-4891-9a98-16c6937ffad5.png)
+
 15.lalu kita bisa melakukan konfirmasi dengan memasukan password kita
 
 16.jika berhasil maka tampilannya akan seperti dibawah ini
