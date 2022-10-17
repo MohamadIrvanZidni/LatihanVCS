@@ -47,9 +47,11 @@ Kelas : TI.22.A.3
 
 11.lalu buat repository baru dengan menggunakan github.com lalu pilih menu icon di atas kanan dan kil new repository
 
-
+![new repository](https://user-images.githubusercontent.com/115876072/196159446-711e3068-af59-4f7d-af90-9256f614a3b2.png)
 
 12.lalu buat repository baru dengan nama sesuai keinginan kalian contohnya "latihan VCS"
+
+
 
 13.untuk menambahkan remote repository kita bisa menggunakan command "git remote add origin [url]" dan gunakan command "git push -u origin master" untuk mengirim perubahan pada local repository ke server
 
