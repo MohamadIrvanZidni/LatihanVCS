@@ -63,8 +63,12 @@ Kelas : TI.22.A.3
 
 15.lalu kita bisa melakukan konfirmasi dengan memasukan password kita
 
+![sign1](https://user-images.githubusercontent.com/115876072/196162523-a76cdf9f-683f-4407-92d9-2011780577bf.png)
+
 16.jika berhasil maka tampilannya akan seperti dibawah ini
 
 ![tampilan](https://user-images.githubusercontent.com/115876072/196161530-de60eb03-f85c-45e0-9bab-1f12c62952e8.png)
 
 17.setelah itu gunakan "git clone" untuk mengcopy repository server
+
+![cloning](https://user-images.githubusercontent.com/115876072/196161991-c302587b-ebd4-46c3-b5f1-7280da81b4a4.png)
