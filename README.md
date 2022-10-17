@@ -27,15 +27,27 @@ Kelas : TI.22.A.3
 
 6.lalu kita buat file sesuai keinginan kita contohnya "README.md"
 
+![5  echo_README md](https://user-images.githubusercontent.com/115876072/196158695-3e8cbedb-4799-4960-808c-b7fa7dffdb4f.png)
+
 7.atau kita bisa menambahkan file tersebut kita gunakan command "git add"
+
+![10  git add README md](https://user-images.githubusercontent.com/115876072/196158766-c50e008d-4319-4716-8db0-d685218b5db6.png)
 
 8.kita bisa mengedit file tersbut dengan comman nano
 
+![8  nano_README md](https://user-images.githubusercontent.com/115876072/196158841-bbb9953e-dac6-4dd2-ba03-21f97aa1535d.png)
+
 9.lalu ketik sesuai keinginan kalian contohnya "Latihan menjalankan VCS"
+
+![nano](https://user-images.githubusercontent.com/115876072/196159142-28ffe3a9-c11d-472d-9e53-f2a10511cecf.png)
 
 10.untuk menyimpan perubahan kita menggunakan command "git commit
 
+![12  git commit](https://user-images.githubusercontent.com/115876072/196159193-e689f45f-519d-47df-8227-4b2b5875e3a1.png)
+
 11.lalu buat repository baru dengan menggunakan github.com lalu pilih menu icon di atas kanan dan kil new repository
+
+
 
 12.lalu buat repository baru dengan nama sesuai keinginan kalian contohnya "latihan VCS"
 
