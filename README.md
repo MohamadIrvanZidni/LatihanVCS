@@ -5,6 +5,8 @@ NIM   : 312210308
 
 Kelas : TI.22.A.3
 
+===========TUTORIAL MEMBUAT REPOSITORY BARU DAN FILE README.md==========
+
 1.pilih direktori yang sudah aktif contohnya c:labs_pemograman1 lalu klik kanan dan pilih "git bash here"
 
 ![Untitled](https://user-images.githubusercontent.com/115876072/196157481-92f15a3a-c80e-4c2d-9b21-10789decb557.png)
@@ -61,7 +63,7 @@ Kelas : TI.22.A.3
 
 ![push](https://user-images.githubusercontent.com/115876072/196161279-94f496b5-bf2a-4891-9a98-16c6937ffad5.png)
 
-15.lalu kita bisa melakukan konfirmasi dengan memasukan password kita
+15.lalu kita bisa melakukan konfirmasi dengan login di akun github kita
 
 ![sign1](https://user-images.githubusercontent.com/115876072/196162523-a76cdf9f-683f-4407-92d9-2011780577bf.png)
 
@@ -71,4 +73,6 @@ Kelas : TI.22.A.3
 
 17.setelah itu gunakan "git clone" untuk mengcopy repository server
 
-![cloning](https://user-images.githubusercontent.com/115876072/196161991-c302587b-ebd4-46c3-b5f1-7280da81b4a4.png)
+![cloning1](https://user-images.githubusercontent.com/115876072/196162870-12de90d4-1965-4faf-a731-149f87a9c5c2.png)
+
+==========sekian terimakasih==========
