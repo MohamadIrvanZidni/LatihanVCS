@@ -1,4 +1,7 @@
 # LatihanVCS
+
+Repositort ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-4
+
 Nama  : Mohamad Irvan Zidni
 
 NIM   : 312210308
