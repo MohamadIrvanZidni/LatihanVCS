@@ -47,7 +47,7 @@ Kelas : TI.22.A.3
 
 ![12  git commit](https://user-images.githubusercontent.com/115876072/196159193-e689f45f-519d-47df-8227-4b2b5875e3a1.png)
 
-11.lalu buat repository baru dengan menggunakan github.com lalu pilih menu icon di atas kanan dan kil new repository
+11.lalu buat repository baru dengan menggunakan github.com lalu pilih menu icon di atas kanan dan klik new repository
 
 ![new repository](https://user-images.githubusercontent.com/115876072/196159446-711e3068-af59-4f7d-af90-9256f614a3b2.png)
 
